@@ -1,0 +1,22 @@
+# Data — not redistributed, see README
+*.csv
+diabetes.csv
+data/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
