@@ -104,3 +104,7 @@ The notebook is committed with its outputs, so all 10 figures and the model resu
 ## Tools
 
 pandas, seaborn, matplotlib, scikit-learn
+
+## Contributions
+
+Fatema wrote the code: the analysis notebook, the EDA and visualizations, and both logistic regression models. Daniella wrote the report.
